@@ -1,2 +1,2 @@
 # Skate
-![preview img](img/skatess)
+![preview img](img/Skatess.jfif)
