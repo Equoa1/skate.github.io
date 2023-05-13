@@ -1,2 +1,2 @@
 # Skate
-![preview img](img/skatecss)
+![preview img](img/skatess)
